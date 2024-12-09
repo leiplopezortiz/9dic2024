@@ -1,0 +1,21 @@
+.titulo{
+    background-color: rgba(255, 255, 255, 0.637);
+    text-align: left;
+}
+td{
+    background-color: rgba(86, 171, 197, 0.466);
+    color: white;
+    text-shadow: grey;
+}
+th, h1{
+    color: rgb(34, 64, 165);
+}
+body{
+    margin: 15%;
+    display: grid;
+    background-image: url(https://img3.wallspic.com/attachments/originals/7/3/8/9/29837-ingeniera_de_telecomunicaciones-4000x3000.jpg);
+}
+a{
+    text-decoration: none;
+    color: white;
+}
